@@ -11,7 +11,7 @@ function App(){
   //add new task
   const handlesubmit = (e) => {
     e.preventDefault();
-
+a
     const title = task.trim();
     if(!title) return;
 
